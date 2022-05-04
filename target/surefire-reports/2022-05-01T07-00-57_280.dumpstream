@@ -1,0 +1,4 @@
+# Created at 2022-05-01T07:00:57.722
+Boot Manifest-JAR contains absolute paths in classpath 'D:\batch258\org.kasi.googlescearchpiccontainer\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
