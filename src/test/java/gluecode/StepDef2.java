@@ -36,7 +36,7 @@ public class StepDef2
 	@Then ("close site")
 	public void method5()
 	{
-		
+		sh.driver.close();
 	}
 
 }
